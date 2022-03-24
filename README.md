@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZeeMann-A
+- 👀 I’m interested in understanding the basics of coding and the different softare languages used.
+- 🌱 I’m currently new to this but applying for software engineering in 2023
+- 💞️ I’m looking to collaborate on software development programes aimed at health proffessionals storing and updating patient data records
+- 📫 How to reach me abidzainab@outlook.com
